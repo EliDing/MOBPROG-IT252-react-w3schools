@@ -4,6 +4,7 @@ function App() {
       <h1>Hello MOBPROG-IT252 PEEPZ!</h1>
       <h2>Happy SOCITFEST</h2>
       <h3>from dingding</h3>
+      <h1>Kapag nasa Katwiran. Ipaglaban mo!</h1>
       <h2>sana kayong lahat ay:</h2>
       <ul>
         <li>Happy</li>
@@ -11,9 +12,7 @@ function App() {
         <li>Mahal ka parin niya</li>
       </ul>
     </div>
-    <div>
-      <h1>Kapag nasa Katwiran. Ipaglaban mo!</h1>
-    </div>
+      
   );
 }
 
