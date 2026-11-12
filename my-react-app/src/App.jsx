@@ -10,7 +10,9 @@ function App() {
         <li>Masaya</li>
         <li>Mahal ka parin niya</li>
       </ul>
-      <footer>Kapag nasa katwiran. Ipaglaban mo</footer>
+    </div>
+    <div>
+      <h1>Kapag nasa Katwiran. Ipaglaban mo!</h1>
     </div>
   );
 }
